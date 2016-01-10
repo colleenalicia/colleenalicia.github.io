@@ -1,0 +1,29 @@
+html {
+  background-color: white;
+  font-family: sans-serif;
+}
+nav ul li {
+  width: 33%; color: black;
+
+}
+nav ul {
+  margin-left: 0;
+  position: relative;
+  left: -5px;
+  font-family: fantasy;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%; }
+
+section {
+  margin: 0 auto;
+}
+h1 {
+  font-family: cursive;
+}
+h2 {
+  font-family: cursive;
+}
